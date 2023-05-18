@@ -1,0 +1,67 @@
+    body{
+        position: fixed;
+        height: auto;
+        margin: 0%;
+        background-color: lightgray;
+        padding: 0%;
+        text-align: center;
+
+    } 
+    header{
+        text-align: center;
+        font-size: 25px;
+        font-family: 'Courier New', Courier, monospace;
+     }
+    input[type="text"]{
+        position: relative;
+        width: 40%;
+        padding: 1%;
+        border: 1px solid black;
+        border-radius: 20px;
+     }
+    .boton1{
+        color: white;
+        font-family: fantasy;
+        margin-top: 10px;
+        margin-right: 10px;
+        width: 20%;
+        border: 1px solid black;
+        border-radius: 20px;
+        background: hsla(0, 100%, 27%, 0.726);
+        font-size: 20px;
+        cursor: pointer;
+    }
+    .boton2{
+        font-family: fantasy;
+        margin-top: 10px;
+        margin-right: 10px;
+        width: 20%;
+        border: 1px solid black;
+        border-radius: 20px;
+        background: hsla(240, 100%, 27%, 0.678);
+        font-size: 20px;
+        color: white;
+        cursor: pointer;
+    }
+    .boton3{
+        font-family: fantasy;
+        margin-top: 10px;
+        margin-right: 10px;
+        width: 20%;
+        border: 1px solid black;
+        border-radius: 20px;
+        background: hsla(120, 100%, 20%, 0.822);
+        font-size: 20px;
+        color: white;
+        cursor: pointer;
+
+    }
+    .rest{
+        font-style: oblique;
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 18px;
+        text-align: center;
+        background-color: transparent;
+
+    }
+
